@@ -27,3 +27,6 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=udisha006&show_icons=true&locale=en" alt="udisha006" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=udisha006&" alt="udisha006" /></p>
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=udisha006&layout=compact&theme=highcontrast&hide_border=true)
+
