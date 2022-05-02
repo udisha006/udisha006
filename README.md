@@ -31,3 +31,8 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=udisha006&layout=compact&theme=highcontrast&hide_border=true)
 ![Udisha's github stats](https://github-readme-stats.vercel.app/api?username=udisha006&title_color=FFFF00&icon_color=00FFFF&text_color=FFFFFF&bg_color=000000&show_icons=true&hide_border=true)
 <br>
+![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=udisha006&theme=highcontrast&hide_border=true)
+ 
+![trophy](https://github-profile-trophy.vercel.app/?username=udisha006&theme=discord)
+
+![github activity graph](https://activity-graph.herokuapp.com/graph?username=udisha006&theme=react-dark) 
